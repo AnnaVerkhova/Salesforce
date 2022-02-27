@@ -1,1 +1,9 @@
 /.idea/runConfigurations.xml
+/.idea/misc.xml
+/.idea/jarRepositories.xml
+/.idea/encodings.xml
+/.idea/compiler.xml
+/src/test/resources/allure.properties
+/.idea/.gitignore
+/.idea/vcs.xml
+/.allure/
