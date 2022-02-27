@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SuiteTest">
+    <test name="Add Account Test">
+        <classes>
+            <class name="salesforce.AddAccountTest"/>
+        </classes>
+    </test> <!-- Test -->
+    <test name="Add Contact Test">
+        <classes>
+            <class name="salesforce.AddContactTest"/>
+        </classes>
+    </test> <!-- Test -->
+</suite>
